@@ -3189,7 +3189,7 @@ body {
 }
 .cid-rdBl8acSrl {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-rdBl8acSrl .plan-body .btn-bgr {
@@ -3211,7 +3211,7 @@ body {
 }
 .cid-rdBl8acSrl .price-term .term {
   display: inline-block;
-  background: #ca4336;
+  background: #ffffff;
   padding: 5px 10px;
   border-radius: 100px;
 }
@@ -3272,7 +3272,7 @@ body {
   color: #ffffff;
 }
 .cid-rdBl8acSrl .price-figure {
-  color: #ffffff;
+  color: #ffc432;
 }
 .cid-rdBl8acSrl .price-term {
   color: #ffffff;
@@ -3280,6 +3280,9 @@ body {
 }
 .cid-rdBl8acSrl LI {
   color: #ffffff;
+}
+.cid-rdBl8acSrl .price-figure B {
+  color: #ffc432;
 }
 .cid-resmJXiqQg {
   padding-top: 75px;
