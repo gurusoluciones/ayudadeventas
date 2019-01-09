@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-28_2320",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -42,7 +42,7 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 85,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.7.10",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -3852,8 +3852,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.ozoneperu.com/\" target=\"_blank\">Escribir subtítulo aquí</a>",
-                "active": true
+                "caption": "<a href=\"https://gurutravel.websguru.pe/\" target=\"_blank\">Escribir subtítulo aquí</a>",
+                "active": false
               },
               {
                 "tags": "Agencias de Viajes",
@@ -3865,7 +3865,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.raymitoursusa.com/\" target=\"_blank\">Escribir subtítulo aquí</a>",
+                "caption": "Escribir subtítulo aquí",
                 "active": false
               },
               {
@@ -3879,7 +3879,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Talleres de Automóviles",
