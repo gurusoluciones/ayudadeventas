@@ -3949,7 +3949,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-4",
-                "caption": "<p><a href=\"http://www.gsoconstructora.com\" target=\"_blank\"></a>gsoconstructora.com<br></p>",
+                "caption": "<p><a href=\"http://www.gsoconstructora.com\" target=\"_blank\"></a><a href=\"https://www.gsoconstructora.com\" target=\"_blank\">gsoconstructora.com</a><br></p>",
                 "active": false
               }
             ]
