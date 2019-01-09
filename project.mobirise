@@ -3897,7 +3897,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.awcajasautomaticas.com\" target=\"_blank\">awcajasautomaticas.com</a>&nbsp;<br>",
+                "caption": "<a href=\"https://www.awcajasautomaticas.com\" target=\"_blank\" class=\"text-warning\">awcajasautomaticas.com</a>&nbsp;<br>",
                 "active": false
               },
               {
@@ -3948,8 +3948,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/g.s.o.-inversiones-1253x721-800x460.png",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "<p><a href=\"http://www.gsoconstructora.com\" target=\"_blank\"></a>www.gsoconstructora.com&nbsp;<br></p>",
+                "customStyle1": "display-4",
+                "caption": "<p><a href=\"http://www.gsoconstructora.com\" target=\"_blank\"></a>gsoconstructora.com<br></p>",
                 "active": false
               }
             ]
